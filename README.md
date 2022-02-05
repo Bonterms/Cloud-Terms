@@ -9,19 +9,15 @@ The Cloud Terms were drafted by the [Bonterms Open Source Forms Committee](https
 
 ## How to Use
 1. **Review** the Cloud Terms with your lawyer.
--See something you want to change? Use Additional Terms (see below).
-2. **Prepare** your Cover Page.
--Need a starting point? See our example Cover Page.
--Identify the Customer and Provider, the Effective Date and other Key Terms.
--Propose any modifications to the Cloud Terms as Additional Terms.
-– Looking for example wording? See our Additional Terms Toolkit.
--Attach any Support, SLA, DPA or other Attachments
-3. **Send** your Cover Page (and Attachments) to your counter-party.
-- Mention why you’ve chosen to start with Bonterms’ best-practice, balanced terms.
-– Looking for backup? Include our Explainer one-pager.
-4. **Negotiate** your Cover Page and revisions to any Attachments.
-5. **Review** Sign the Cover Page and create your Cloud Agreement with the other party!
-6. **Customer Issues Order** to Provider for Cloud Services. See example Order.
+2. **Prepare** your Cover Page ([example](https://bonterms.com/#download-cloud-terms)).
+- Identify the parties, Effective Date and other **Key Terms**.
+- Propose any **Additional Terms** ([examples](https://bonterms.com/#download-cloud-terms)).
+- Attach any Support, SLA, DPA or other **Attachments**
+3. **Send** your Cover Page (and Attachments) to your counterparty.
+- Add a cover note or try our [Explainer](https://bonterms.com/#download-cloud-terms).
+4. **Negotiate** the Cover Page and Attachments.
+5. **Sign** the Cover Page and create your **Cloud Agreement**!
+6. **Issue** or receive Orders ([example](https://bonterms.com/#download-cloud-terms)).
 
 ## Open Source
 The Cloud Terms and all other standard Bonterms forms are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
