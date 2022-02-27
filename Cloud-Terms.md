@@ -156,7 +156,7 @@ acknowledges that the Cloud Service is not designed for (and Provider has no lia
 
 **20. Publicity**. Neither party may publicly announce this Agreement without the other party’s prior approval or except as required by Laws.
 
-**21. Trials and Betas**. Provider may offer optional Trials and Betas. Use of Trials and Betas is permitted only for Customer’s internal evaluation during the period designated by Provider on the Order (or if not designated, 30 days). Either party may terminate Customer’s use of Trials and Betas at any time for any reason. Trials and Betas may be inoperable, incomplete or include features never released. **Notwithstanding anything else in this Agreement, Provider offers no warranty, indemnity, SLA or Support for Trials and Betas and its liability for Trials and Betas will not exceed US$1,000**.
+**21. Trials and Betas**. Provider may offer optional Trials and Betas. Use of Trials and Betas is permitted only for Customer’s internal evaluation during the period designated by Provider on the Order (or if not designated, 30 days). Either party may terminate Customer’s use of Trials and Betas at any time for any reason. Trials and Betas may be inoperable, incomplete or include features never released. **Notwithstanding anything else in this Agreement, Provider offers no warranty, indemnity, SLA or Support for Trials and Betas and its liability for Trials and Betas will not exceed US$1,000.**
 
 **22. General Terms**.
 
