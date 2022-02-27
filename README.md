@@ -1,3 +1,18 @@
+
+# Cloud-Terms
+
+ProseObject version of github.com/bonterms/Cloud-Terms/
+
+This repo is Unofficial.  See the repo above and https//bonterms.com for the real thing.
+
+Mount in a CommonAccord app as /G/Bonterms/Cloud-Terms/
+Dependencies include /G/Z/ 
+
+
+
+____________________________________________
+ORIGINAL BONTERMS README.md
+
 # Cloud Terms
 Best-practice, balanced, open source SaaS/cloud subscription terms
 
