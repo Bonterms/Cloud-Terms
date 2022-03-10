@@ -3,7 +3,7 @@ Ti=Bonterms Cloud Terms (Version 1.0)
 
 sec=<ol><li>{TheAgreement.Sec}</li><li>{CloudService.Sec}</li><li>{User.Sec}</li><li>{AffiliateUse.Sec}</li><li>{Data.Sec}</li><li>{ComplyLaw.Sec}</li><li>{Function.Sec}</li><li>{Warranty.Sec}</li><li>{Usage.Sec}</li><li>{ThirdPartyPlatform.Sec}</li><li>{ProfessionalService.Sec}</li><li>{Fee.Sec}</li><li>{SuspendUse.Sec}</li><li>{Life.Sec}</li><li>{IP.Sec}</li><li>{LiabilityLimit.Sec}</li><li>{Indemnify.Sec}</li><li>{Conf.Sec}</li><li>{Conf.MandatoryDisclosure.Sec}</li><li>{Publicity.Sec}</li><li>{Use.Trial.Sec}</li><li>{Misc.Sec}</li><li>{Def.Sec}</li></ol>
 
-Patch1.=[G/BonTerms/Cloud-Terms/Patch/1.md]
+Patch1.=[G/Bonterms/Cloud-Terms/Patch/1.md]
 
 TheAgreement.Ti=The Agreement
 

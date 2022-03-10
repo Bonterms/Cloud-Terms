@@ -41,5 +41,5 @@ Form.SLA.Uptime.%=<b>98.00%</b>
 
 
 
-=[G/BonTerms/Cloud-Terms/Cover/0.md]
+=[G/Bonterms/Cloud-Terms/Cover/0.md]
 
