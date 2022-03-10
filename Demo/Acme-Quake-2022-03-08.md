@@ -22,9 +22,22 @@ Annex.DPA.??=None
 
 Annex.SecurityMeasure.??=None
 
-OtherTerm.secs=The {Form.Ti} subsection {Form.Function.SLA.Xnum} ({Form.Function.Ti} - {Form.Function.SLA.Ti}) is modified to read:<br>"{Form.Function.SLA.sec}"
+Patches:=
+
+OtherTerm.1.Ti=Patching Warranty.Provider.sec with the Bonterms Additional terms Warranty.Provider-w/OpenSource.sec:
+
+OtherTerm.1.sec={Form.Warranty.Provider.sec}
+
+Form.Warranty.Provider.sec={Form.Patch1.Warranty.Provider-w/OpenSource.sec}
+
+OtherTerm.2.Ti=Change the SLA Uptime Percentage.
+
+OtherTerm.2.sec=The {Form.Ti} subsection {Form.Function.SLA.Xnum} ({Form.Function.Ti} - {Form.Function.SLA.Ti}) is modified to read:<br>"{Form.Function.SLA.sec}"
+
+OtherTerm.3.Sec=End of Additional Terms
 
 Form.SLA.Uptime.%=<b>98.00%</b>
+
 
 
 
