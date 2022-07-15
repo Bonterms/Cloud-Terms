@@ -2,7 +2,7 @@
 Best-practice, balanced, open source SaaS/cloud subscription terms
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) provides best-practice, balanced, open source legal forms for the enterprise. Bonterms forms are standard forms that you modify as necessary for your transaction through a Cover Page. Make sure to have a lawyer review Bonterms forms before use in any circumstance.
+[Bonterms](https://bonterms.com/) provides balanced, open source legal forms for the enterprise. Bonterms forms are standard forms that you modify as necessary for your transaction through a Cover Page. Make sure to have a lawyer review Bonterms forms before use in any circumstance.
 
 ## How the Cloud Terms were Created
 The Cloud Terms were drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/). The Cloud Terms went through six major drafts, three sub-committees (Data, Risk and General Terms) and multiple meetings, surveys and discussions over seven months.
