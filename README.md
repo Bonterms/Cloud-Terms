@@ -2,7 +2,7 @@
 Enterprise SaaS/Cloud subscription terms, balanced between customer and provider.
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms, DPA, SLA and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms (with DPA and SLA Attachments), Professional Services Agreement (PSA) and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 ## How the Cloud Terms were Created
 The Cloud Terms were drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/). The Cloud Terms went through six major drafts, three sub-committees (Data, Risk and General Terms) and multiple meetings, surveys and discussions over seven months.
