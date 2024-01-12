@@ -54,7 +54,7 @@
 
 (b) will not submit Sensitive Data to the Cloud Service, and
 
-acknowledges that the Cloud Service is not designed for (and Provider has no liability for) use prohibited in this Section 9.2.
+(c) acknowledges that the Cloud Service is not designed for (and Provider has no liability for) use prohibited in this Section 9.2.
 
 **9.3.** Restrictions. Customer will not and will not permit anyone else to: (a) sell, sublicense, distribute or rent the Cloud Service (in whole or part), grant non-Users access to the Cloud Service or use the Cloud Service to provide a hosted or managed service to others, (b) reverse engineer, decompile or seek to access the source code of the Cloud Service, except to the extent these restrictions are prohibited by Laws and then only upon advance notice to Provider, (c) copy, modify, create derivative works of or remove proprietary notices from the Cloud Service, (d) conduct security or vulnerability tests of the Cloud Service, interfere with its operation or circumvent its access restrictions or (e) use the Cloud Service to develop a product that competes with the Cloud Service.
 
